@@ -23,10 +23,14 @@ img{
 }
 
 
-h2{
+.titulo{
     font-size: 40px;
     text-align: center;
 }
+.aumented-paragraph{
+    font-size: 20px;
+}
+
 
 body{
     background-color:none;
